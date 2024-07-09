@@ -1,3 +1,5 @@
+![Project 1 Screenshot](img/p1.png)
+
 # Raj G Patil's Portfolio
 
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experience as a full-stack developer.
@@ -19,8 +21,6 @@ I am a full-stack developer with experience in Python, MySQL, HTML, CSS, JavaScr
 
 ## Sample Work
 Here are some sample images from my projects:
-
-![Project 1 Screenshot](img/p1.png)
 
 ![Project 2 Screenshot](img/p2.png)
 
