@@ -5,7 +5,6 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 ## Table of Contents
 - [About](#about)
 - [Technologies Used](#technologies-used)
-- [Projects](#projects)
 - [Sample Work](#sample-work)
 - [Contact](#contact)
 
@@ -21,14 +20,14 @@ I am a full-stack developer with experience in Python, MySQL, HTML, CSS, JavaScr
 ## Sample Work
 Here are some sample images from my projects:
 
-### Project 1
 ![Project 1 Screenshot](img/p1.png)
 
-### Project 2
 ![Project 2 Screenshot](img/p2.png)
 
-### Project 3
 ![Project 3 Screenshot](img/p3.png)
+
+![Project 3 Screenshot](img/p4.png)
+
 
 ## Contact
 Feel free to reach out to me for any queries or opportunities.
